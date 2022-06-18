@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @adisojr
-- 👀 I’m interested in 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python Projects
 - 📫 How to reach me: Email: writerdismas@gmail.com
